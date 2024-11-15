@@ -2194,5 +2194,26 @@
     "repo": "afrangi/Obsidian-Theme-Orange",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
-  }
+  },
+
+	{
+	"name": "neutral academia",
+    "author": "incantatem2",
+    "repo": "https://github.com/incantatem2/Obsidian-neutral-academia",
+    "screenshot": "neutralacademia-dark-thumbnail.jpg",
+    "modes": ["dark", "light"],
+	"branch": "master"
+	},
+
+
+	{
+	"name": "winter spices",
+    "author": "incantatem2",
+    "repo": "https://github.com/incantatem2/Obsidian-winter-spices",
+    "screenshot": "winterspices-thumbnail.jpg",
+    "modes": ["light"],
+	"branch": "master"
+	}
+	
+		
 ]
