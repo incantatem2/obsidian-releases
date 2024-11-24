@@ -2222,5 +2222,12 @@
     "repo": "harmtemolder/obsidian-ink",
     "screenshot": "screenshot.png",
     "modes": ["light"]
+  },
+  {
+    "name": "Mulled Wine",
+    "author": "incantatem2",
+    "repo": "incantatem2/Obsidian-mulled-wine",
+    "screenshot": "images/mulledwine-thumbnail.jpg",
+    "modes": ["dark", "light"]
   }
 ]
